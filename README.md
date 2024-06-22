@@ -61,7 +61,7 @@ Future updates may include:
 Contributions to this repository are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ![Gazbebo Simulation](tuto_images/gazebo.png)
-![Rviz Simulation](tuto_images/rviz.png)
+![Rviz Simulation](tuto_images/Rviz.png)
 
 
 ##License
