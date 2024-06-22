@@ -54,7 +54,7 @@ roslaunch robot_kinematic robot_kinematic.launch
 
 Future updates may include:
 
-- Implementing `robot_localization` for sensor fusion with IMU data.
+- Implementing `robot_localization` for sensor fusion with IMU data (already implemented in the [Mobile-robot-simulation-ROS repository](https://github.com/ChehabiMed/mobile-robot-localization-ROS) .
 - Adding meshes and your stl model to make the robot looking good.
 - Adding sterio camera plugin and extracting visual odometry from it to fuse it with other data.
 - Building a map from sterio vision.
