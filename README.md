@@ -60,6 +60,10 @@ Future updates may include:
 
 Contributions to this repository are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
+![Gazbebo Simulation](tuto_images/gazebo.png)
+![Rviz Simulation](tuto_images/rviz.png)
+
+
 ##License
 
 This project is licensed under the BSD 2-Clause "Simplified" License. See the LICENSE file for details.
