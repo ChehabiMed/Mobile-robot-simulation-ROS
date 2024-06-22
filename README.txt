@@ -1,6 +1,3 @@
-Certainly! Here's a README file for your GitHub tutorial on the simple differential drive mobile robot simulation:
-
----
 
 # Simple Differential Drive Mobile Robot Simulation
 
