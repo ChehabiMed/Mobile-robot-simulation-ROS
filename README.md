@@ -46,6 +46,9 @@ Launch the simulation environment:
 roslaunch robot_kinematic robot_kinematic.launch 
 ```
 
+![Gazbebo Simulation](tuto_images/gazebo.png)
+
+![Rviz Simulation](tuto_images/Rviz.png)
 
 ## Future Enhancements
 
@@ -59,9 +62,6 @@ Future updates may include:
 ## Contributing
 
 Contributions to this repository are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-![Gazbebo Simulation](tuto_images/gazebo.png)
-![Rviz Simulation](tuto_images/Rviz.png)
 
 
 ##License
