@@ -61,7 +61,3 @@ Contributions to this repository are welcome! If you have suggestions, improveme
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify and expand upon this README based on your specific project details and audience needs. Happy simulating! 🤖
