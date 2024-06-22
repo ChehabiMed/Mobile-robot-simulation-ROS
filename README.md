@@ -1,6 +1,9 @@
 
 # Simple Differential Drive Mobile Robot Simulation
 
+![Robot Simulation](tuto_images/traj.png)
+
+
 Welcome to the simple differential drive mobile robot simulation tutorial! This repository provides a basic simulation setup using ROS (Robot Operating System) and Gazebo for simulating a differential drive robot with various functionalities.
 
 ## Overview
@@ -29,10 +32,10 @@ To run the simulation on your local machine, ensure you have the following prere
 Clone this repository into your ROS workspace and build it:
 
 ```bash
-cd ~/catkin_ws/src
+cd ~
 git clone https://github.com/ChehabiMed/Mobile-robot-simulation-ROS
 cd ..
-catkin_make
+catkin_make 
 source devel/setup.bash
 ```
 
