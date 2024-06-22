@@ -1,7 +1,7 @@
 
 # Simple Differential Drive Mobile Robot Simulation
 
-Welcome to the simple differential drive mobile robot simulation tutorial! This repository provides a basic simulation setup using ROS (Robot Operating System) and Gazebo for simulating a differential drive robot with various functionalities.
+This is a simple differential drive mobile robot simulation! This repository provides a basic simulation setup using ROS (Robot Operating System) and Gazebo for simulating a differential drive robot with various functionalities.
 
 ![Robot Simulation](tuto_images/traj.png)
 
