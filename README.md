@@ -50,6 +50,9 @@ roslaunch robot_kinematic robot_kinematic.launch
 
 ![Rviz Simulation](tuto_images/Rviz.png)
 
+![Rqt](tuto_images/rqt.png)
+
+
 ## Future Enhancements
 
 Future updates may include:
