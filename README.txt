@@ -58,6 +58,6 @@ Future updates may include:
 
 Contributions to this repository are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
+##License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the BSD 2-Clause "Simplified" License. See the LICENSE file for details.
